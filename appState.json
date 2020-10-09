@@ -1,0 +1,97 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "60f6f82b-1643-4d6f-9eb3-855f4ccaf34b": {
+        "id": "60f6f82b-1643-4d6f-9eb3-855f4ccaf34b",
+        "parent": null,
+        "name": "ddd.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "ddd.js",
+        "cursor": {
+          "lineNumber": 1,
+          "column": 1
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "ddd"
+        },
+        "triggers": [],
+        "lastUpdated": 1602237609898
+      },
+      "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed": {
+        "id": "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed",
+        "parent": null,
+        "name": "nodeFF2.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "nodeFF2.js",
+        "cursor": {
+          "lineNumber": 4,
+          "column": 3
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "nodeFF2"
+        },
+        "triggers": [],
+        "lastUpdated": 1602238236287
+      }
+    },
+    "openFiles": [
+      "60f6f82b-1643-4d6f-9eb3-855f4ccaf34b",
+      "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed"
+    ],
+    "currentFileId": "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": "CloudFormation",
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.4",
+    "projectName": "ddd",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "eu-west-2",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1602238405026
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "ddd1",
+      "url": "https://github.com/Indunil1992/ddd1"
+    }
+  }
+}
