@@ -61,7 +61,7 @@
           "name": "nodeFF2"
         },
         "triggers": [],
-        "lastUpdated": 1625561661571
+        "lastUpdated": 1625562213158
       },
       "4e210cc7-d23c-48e0-96c6-628fc85fc3ed": {
         "id": "4e210cc7-d23c-48e0-96c6-628fc85fc3ed",
@@ -78,7 +78,7 @@
       "60f6f82b-1643-4d6f-9eb3-855f4ccaf34b",
       "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed"
     ],
-    "currentFileId": "60f6f82b-1643-4d6f-9eb3-855f4ccaf34b",
+    "currentFileId": "0eb1f71d-4c97-47b6-ba71-9f8bd05f7fed",
     "resources": {
       "apiginduuJuly6th21qaindusany": {
         "name": "apiginduuJuly6th21qaindusany",
@@ -271,6 +271,14 @@
         "shouldPersist": false,
         "displayOnly": false,
         "editable": false
+      },
+      {
+        "lambdaId": "all",
+        "varKey": "var2",
+        "varValue": "12121",
+        "shouldPersist": true,
+        "displayOnly": false,
+        "editable": true
       }
     ],
     "packageJSON": {
@@ -290,11 +298,11 @@
     "projectName": "ddd",
     "projectDescription": "",
     "projectVersion": "1.0.0",
-    "projectRegion": "eu-west-2",
+    "projectRegion": "eu-central-1",
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1625561928996
+    "lastSave": 1625563646903
   },
   "VCS_STATE": {
     "provider": "GitHub",

@@ -343,6 +343,7 @@
         },
         "Environment": {
           "Variables": {
+            "var2": "12121",
             "SIGMA_AWS_ACC_ID": {
               "Ref": "AWS::AccountId"
             },
@@ -473,6 +474,7 @@
         },
         "Environment": {
           "Variables": {
+            "var2": "12121",
             "SIGMA_AWS_ACC_ID": {
               "Ref": "AWS::AccountId"
             }
@@ -504,7 +506,7 @@
         }
       }
     },
-    "apiginduuJuly6th21Deployment1625561953005": {
+    "apiginduuJuly6th21Deployment1625563682479": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {

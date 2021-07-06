@@ -2,6 +2,7 @@ const AWS = require('aws-sdk');
 const cognito_idp = new AWS.CognitoIdentityServiceProvider();
 
 exports.handler = async (event) => {
+    debugger;
     try {
         let data = await cognito_idp.listUsers({
             UserPoolId: process.env.UserPoolId_cognitoinduJuly6L21,
